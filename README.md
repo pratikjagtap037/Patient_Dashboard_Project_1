@@ -55,7 +55,7 @@ clinical, operational, and financial domains.
 
 ## 📁 Files
 - `Patient_Dataset_1000.xlsx` — Source dataset
-- `HealthDashboard.pbix` — Power BI Dashboard file
+- `Patient Dashboard template.ptib` — Power BI Dashboard file
 - `README.md` — Project documentation
 
 ---
