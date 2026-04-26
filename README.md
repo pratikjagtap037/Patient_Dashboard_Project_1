@@ -59,7 +59,6 @@ clinical, operational, and financial domains.
 - `README.md` — Project documentation
 
 ---
-⭐ If you found this useful, please star the repository!
 
 <img width="566" height="319" alt="Dashboard 1" src="https://github.com/user-attachments/assets/b9e05125-082d-4d25-b1bb-b4ade02caf45" />
 <img width="563" height="317" alt="Dashboard 2" src="https://github.com/user-attachments/assets/e3725630-345c-4474-908e-4dff870673cf" />
