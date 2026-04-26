@@ -1,4 +1,3 @@
-# Patient_Dashboard_Project_1
 # 🏥 Patient Health Analytics Dashboard — Power BI
 
 ## 📌 Project Overview
